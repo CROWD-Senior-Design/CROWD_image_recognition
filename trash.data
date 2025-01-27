@@ -1,0 +1,5 @@
+classes= 3
+train=/mnt/c/Users/skyle/Desktop/159/trash_data/trash_cfg/content/train.txt
+valid=/mnt/c/Users/skyle/Desktop/159/trash_data/trash_cfg/content/val.txt
+names=trash.names
+backup=/mnt/c/Users/skyle/Desktop/159/trash_data/trash_cfg/content/backup
